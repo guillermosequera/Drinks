@@ -30,7 +30,7 @@ const Formulario = () => {
             }}
         >
             <fieldset>
-                <legend>Search drinks by categories or ingredients</legend>
+                <legend className="text-center h2">Search drinks by categories or ingredients</legend>
             </fieldset>
 
             <div className="row mt-4">
